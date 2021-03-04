@@ -1,0 +1,17 @@
+body{
+    background-image:url("https://i.postimg.cc/KzWwHPcq/racing.gif");
+    background-position: center; background-size: cover;
+    }
+    #myCanvas { 
+      background-image:url("https://i.postimg.cc/bv5d35nK/racing.jpg");
+      border-width:10px;
+     background-color: white;
+      border-style:ridge;
+    }
+    h1,h4 { 
+      
+      color: white; 
+    }
+    b{
+      color: red;
+    }
